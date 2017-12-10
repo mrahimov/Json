@@ -1,10 +1,10 @@
-package nyc.c4q.jsoninclass;
+package ui;
 
 /**
  * Created by muridjonrahimov on 12/10/17.
  */
 
-public class JsonModel {
+public class Response {
     private String status;
     private String[] message;
 
